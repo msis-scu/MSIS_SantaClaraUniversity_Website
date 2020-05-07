@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MSIS_SantaClaraUniversity_Website/precache-manifest.21fe284f06954bf6028f514bf769f1cf.js"
+  "/MSIS_SantaClaraUniversity_Website/precache-manifest.83b2cfb8889e5dea1486b0b729bdcef1.js"
 );
 
 self.addEventListener('message', (event) => {
