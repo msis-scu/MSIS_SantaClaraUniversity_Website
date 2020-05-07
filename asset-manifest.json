@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MSIS_SantaClaraUniversity_Website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/MSIS_SantaClaraUniversity_Website/static/js/main.b4e92084.chunk.js",
-    "main.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/main.b4e92084.chunk.js.map",
+    "main.js": "/MSIS_SantaClaraUniversity_Website/static/js/main.82788bba.chunk.js",
+    "main.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/main.82788bba.chunk.js.map",
     "runtime-main.js": "/MSIS_SantaClaraUniversity_Website/static/js/runtime-main.52c3a0fb.js",
     "runtime-main.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/runtime-main.52c3a0fb.js.map",
-    "static/js/2.e2832a2b.chunk.js": "/MSIS_SantaClaraUniversity_Website/static/js/2.e2832a2b.chunk.js",
-    "static/js/2.e2832a2b.chunk.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/2.e2832a2b.chunk.js.map",
+    "static/js/2.dbd8e33e.chunk.js": "/MSIS_SantaClaraUniversity_Website/static/js/2.dbd8e33e.chunk.js",
+    "static/js/2.dbd8e33e.chunk.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/2.dbd8e33e.chunk.js.map",
     "index.html": "/MSIS_SantaClaraUniversity_Website/index.html",
-    "precache-manifest.a1129704a443d0fa99641e2ad95646ad.js": "/MSIS_SantaClaraUniversity_Website/precache-manifest.a1129704a443d0fa99641e2ad95646ad.js",
+    "precache-manifest.21fe284f06954bf6028f514bf769f1cf.js": "/MSIS_SantaClaraUniversity_Website/precache-manifest.21fe284f06954bf6028f514bf769f1cf.js",
     "service-worker.js": "/MSIS_SantaClaraUniversity_Website/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/MSIS_SantaClaraUniversity_Website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e2832a2b.chunk.js.LICENSE.txt": "/MSIS_SantaClaraUniversity_Website/static/js/2.e2832a2b.chunk.js.LICENSE.txt",
+    "static/js/2.dbd8e33e.chunk.js.LICENSE.txt": "/MSIS_SantaClaraUniversity_Website/static/js/2.dbd8e33e.chunk.js.LICENSE.txt",
     "static/media/HorizontalRed1.png": "/MSIS_SantaClaraUniversity_Website/static/media/HorizontalRed1.4512285b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.52c3a0fb.js",
-    "static/js/2.e2832a2b.chunk.js",
+    "static/js/2.dbd8e33e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b4e92084.chunk.js"
+    "static/js/main.82788bba.chunk.js"
   ]
 }
