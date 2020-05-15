@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "917a4127bff0ea4ff15ed6d0ba845131",
+    "revision": "b7d9f4964579e3573f068cf53d79e337",
     "url": "/MSIS_SantaClaraUniversity_Website/index.html"
   },
   {
-    "revision": "21a2d3fed2495bbf2693",
+    "revision": "348209bf4b1e04c9385d",
     "url": "/MSIS_SantaClaraUniversity_Website/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MSIS_SantaClaraUniversity_Website/static/js/2.dbd8e33e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21a2d3fed2495bbf2693",
-    "url": "/MSIS_SantaClaraUniversity_Website/static/js/main.a74fcb69.chunk.js"
+    "revision": "348209bf4b1e04c9385d",
+    "url": "/MSIS_SantaClaraUniversity_Website/static/js/main.a2b74ca0.chunk.js"
   },
   {
     "revision": "67fe91be3769f6f4dc01",
