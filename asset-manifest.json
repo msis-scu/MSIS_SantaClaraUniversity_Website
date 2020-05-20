@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MSIS_SantaClaraUniversity_Website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/MSIS_SantaClaraUniversity_Website/static/js/main.e78f25db.chunk.js",
-    "main.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/main.e78f25db.chunk.js.map",
+    "main.js": "/MSIS_SantaClaraUniversity_Website/static/js/main.c687103b.chunk.js",
+    "main.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/main.c687103b.chunk.js.map",
     "runtime-main.js": "/MSIS_SantaClaraUniversity_Website/static/js/runtime-main.52c3a0fb.js",
     "runtime-main.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/runtime-main.52c3a0fb.js.map",
     "static/js/2.99d2f035.chunk.js": "/MSIS_SantaClaraUniversity_Website/static/js/2.99d2f035.chunk.js",
     "static/js/2.99d2f035.chunk.js.map": "/MSIS_SantaClaraUniversity_Website/static/js/2.99d2f035.chunk.js.map",
     "index.html": "/MSIS_SantaClaraUniversity_Website/index.html",
-    "precache-manifest.7457bcf0f1ea32f12e0d8e6997f92f5f.js": "/MSIS_SantaClaraUniversity_Website/precache-manifest.7457bcf0f1ea32f12e0d8e6997f92f5f.js",
+    "precache-manifest.2127b42b0e37c25dff0bbbd33b58ec5c.js": "/MSIS_SantaClaraUniversity_Website/precache-manifest.2127b42b0e37c25dff0bbbd33b58ec5c.js",
     "service-worker.js": "/MSIS_SantaClaraUniversity_Website/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/MSIS_SantaClaraUniversity_Website/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.99d2f035.chunk.js.LICENSE.txt": "/MSIS_SantaClaraUniversity_Website/static/js/2.99d2f035.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.52c3a0fb.js",
     "static/js/2.99d2f035.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e78f25db.chunk.js"
+    "static/js/main.c687103b.chunk.js"
   ]
 }
